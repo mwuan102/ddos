@@ -1,8 +1,8 @@
 #!/usr/bin/python -tt
-#Coded by DQV
+#Coded by HMQ
 #########################################
 #         Just a little change          #
-#           Đặng Quốc Vinh              #
+#           Hồ Minh Quân              #
 #########################################
 import requests
 import socket
@@ -24,7 +24,7 @@ print ('''
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ~~~ TOOL DQV-DDoS Layer7 (DDoS)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-~~~ Bản Quyền: Đặng Quốc Vinh
+~~~ Bản Quyền: Hồ Minh Quân
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -''')
 
 
@@ -812,4 +812,4 @@ def main():
 	
 
 if __name__ == "__main__":
-	main()#Coded by DQV
+	main()#Coded by HMQ
